@@ -1,0 +1,16 @@
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\bin\Debug\CSharpSonProjem.exe.config
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\bin\Debug\CSharpSonProjem.exe
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\bin\Debug\CSharpSonProjem.pdb
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.csprojAssemblyReference.cache
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.Properties.Resources.resources
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.csproj.GenerateResource.cache
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.csproj.CoreCompileInputs.cache
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.exe
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.pdb
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.Anasayfa.resources
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.Giriş.resources
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.SifreYenileme.resources
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.Kayit.resources
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.SihirliKutuyuYonetme.resources
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.YoneticiGiris.resources
+C:\Users\Nilay\source\repos\CSharpSonProjem\CSharpSonProjem\obj\Debug\CSharpSonProjem.Yonetim.resources
